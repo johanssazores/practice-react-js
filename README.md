@@ -1,2 +1,2 @@
-# joh-practice-react
+# practice-react
 Practice React JS
